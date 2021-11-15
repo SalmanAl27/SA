@@ -1,0 +1,18 @@
+.a {
+  width: 300px;
+  height: 300px;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: aqua;
+  border: 5px solid black;
+}
+h1 {
+  text-align: center;
+}
+
+.aaa {
+  margin: 10px;
+}
+.aa {
+  margin-top: 100px;
+}
